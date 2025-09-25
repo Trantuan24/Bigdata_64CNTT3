@@ -1,0 +1,14 @@
+Year	Average_Consumption
+----	-------------------
+1981	34.0
+1984	40.0
+1985	45.0
+	
+========================================	
+SUMMARY STATISTICS	
+========================================	
+Total years with Avg > 30: 3	
+Years: 1981, 1984, 1985	
+Highest consumption: 45.0	
+Lowest consumption (>30): 34.0	
+Average of filtered years: 39.67	

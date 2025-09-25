@@ -1,0 +1,34 @@
+Trans_ID,Date,Cust_ID,Amount,Game_Type,Equipment,City,State,Mode
+0000001,08-26-2011,4000001,41.58,Team Sports,Weightlifting Gloves,Nashville,Tennessee,credit
+0000002,06-15-2011,4000001,283.76,Exercise & Fitness,Camping & Backpacking & Hiking,Clarksville,California,credit
+0000003,02-27-2011,4000001,5.24,Exercise & Fitness,Cardio Machine Accessories,Anaheim,Illinois,credit
+0000004,07-29-2011,4000001,138.96,Exercise & Fitness,Camping & Backpacking & Hiking,Long Beach,Wisconsin,credit
+0000005,09-01-2011,4000002,182.28,Exercise & Fitness,Field Hockey,Milwaukee,California,credit
+0000006,06-04-2011,4000002,146.21,Team Sports,Field Hockey,Nashville,South Carolina,credit
+0000007,09-19-2011,4000002,207.47,Puzzles,Camping & Backpacking & Hiking,Long Beach,Wisconsin,credit
+0000008,02-04-2011,4000002,171.9,Puzzles,Camping & Backpacking & Hiking,Long Beach,California,credit
+0000009,05-20-2011,4000002,108.1,Team Sports,Jigsaw Puzzles,Nashville,Wisconsin,credit
+0000010,12-13-2011,4000003,42.61,Gymnastics,Weightlifting Gloves,Milwaukee,Illinois,credit
+0000011,03-19-2011,4000003,133.41,Exercise & Fitness,Weightlifting Machine Accessories,Anaheim,Illinois,credit
+0000012,09-13-2011,4000003,129.41,Outdoor Recreation,Cardio Machine Accessories,Charleston,Tennessee,credit
+0000013,01-06-2011,4000004,251.93,Exercise & Fitness,Cardio Machine Accessories,Milwaukee,Illinois,credit
+0000014,12-27-2011,4000004,87.95,Exercise & Fitness,Gymnastics Rings,Clarksville,Illinois,credit
+0000015,12-01-2011,4000005,214.75,Exercise & Fitness,Jigsaw Puzzles,Milwaukee,Wisconsin,credit
+0000016,06-23-2011,4000005,276.64,Puzzles,Jigsaw Puzzles,Nashville,Illinois,credit
+0000017,06-07-2011,4000006,294.39,Team Sports,Camping & Backpacking & Hiking,Nashville,Wisconsin,credit
+0000018,08-07-2011,4000006,138.01,Exercise & Fitness,Camping & Backpacking & Hiking,Long Beach,Wisconsin,credit
+0000019,08-27-2011,4000007,140.19,Gymnastics,Weightlifting Gloves,Nashville,Wisconsin,credit
+0000020,11-16-2011,4000007,45.11,Exercise & Fitness,Gymnastics Rings,Milwaukee,California,credit
+0000021,02-04-2011,4000007,270.36,Gymnastics,Cardio Machine Accessories,Charleston,Illinois,credit
+0000022,11-15-2011,4000007,7.79,Outdoor Recreation,Jigsaw Puzzles,Chicago,California,credit
+0000023,02-24-2011,4000008,141.69,Team Sports,Field Hockey,Chicago,South Carolina,credit
+0000024,03-15-2011,4000008,171.21,Puzzles,Gymnastics Rings,Charleston,Illinois,credit
+0000025,01-18-2011,4000009,74.37,Outdoor Recreation,Camping & Backpacking & Hiking,Nashville,Illinois,credit
+0000026,11-15-2011,4000009,36.89,Team Sports,Weightlifting Gloves,Milwaukee,California,credit
+0000027,10-23-2011,4000009,284.26,Exercise & Fitness,Gymnastics Rings,Clarksville,California,credit
+0000028,06-22-2011,4000009,38.03,Team Sports,Weightlifting Machine Accessories,Chicago,Tennessee,credit
+0000029,05-24-2011,4000009,231.48,Gymnastics,Camping & Backpacking & Hiking,Nashville,California,credit
+0000030,02-25-2011,4000010,92.12,Outdoor Recreation,Jigsaw Puzzles,Nashville,Tennessee,credit
+0000031,03-25-2011,4000010,281.63,Puzzles,Gymnastics Rings,Milwaukee,Wisconsin,credit
+0000032,01-30-2011,4000010,193.68,Exercise & Fitness,Weightlifting Machine Accessories,Clarksville,Tennessee,credit
+0000033,02-22-2011,4000010,24.67,Outdoor Recreation,Gymnastics Rings,Nashville,Wisconsin,credit

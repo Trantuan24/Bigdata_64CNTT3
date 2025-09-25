@@ -1,0 +1,22 @@
+Tham vọng của Nvidia khi đổ trăm tỷ USD vào OpenAI
+
+Việc Nvidia đầu tư 100 tỷ USD để cung cấp hàng triệu chip cho OpenAI được đánh giá là chưa có tiền lệ trong ngành công nghệ.
+
+Theo công bố ngày 22/9, Nvidia sẽ đầu tư khoản tiền ban đầu 10 tỷ USD để tăng công suất xử lý các hệ thống của OpenAI. Phần còn lại sẽ triển khai dần khi xây dựng cơ sở hạ tầng, dự kiến vào nửa cuối 2026.
+Một số nguồn tin nói Nvidia sẽ đầu tư vào OpenAI thông qua cổ phần không có quyền biểu quyết, trong khi đó nhà phát triển ChatGPT sẽ dùng nguồn vốn này để mua chip Nvidia, từ đó tăng cường sức mạnh so với các đối thủ.
+Reuters đánh giá thỏa thuận là "điều chưa từng có tiền lệ trong ngành công nghệ", nhưng cũng đặt ra nhiều dấu hỏi về lợi ích và rủi ro cho đôi bên.
+Logo Nvidia và OpenAI trên màn hình máy tính. Ảnh: Reuters
+Theo WSJ, Nvidia đang có vị thế hàng đầu về phần cứng AI, do đó việc đầu tư có thể giúp OpenAI tăng thêm phần tín nhiệm, khẳng định vị thế thống trị trong cuộc đua ngày càng khốc liệt. ChatGPT hiện có hơn 700 triệu người dùng hàng tháng, nhưng vẫn chịu lỗ. Hồi tháng 6, công ty cho biết đạt doanh thu định kỳ hàng năm 10 tỷ USD nhưng phải sau năm 2029 mới có lợi nhuận.
+Khoản tiền 100 tỷ USD cũng giúp OpenAI "thiết lập lại kỳ vọng thị trường". Có nghĩa, Nvidia sẽ luôn duy trì được sự bùng nổ trong lĩnh vực trí tuệ nhân tạo, từ đó thúc đẩy và củng cố nhu cầu mua sắm đối với chip AI. Nvidia sẽ tạo ra "tính tuần hoàn", giúp mọi thứ phát triển xoay vòng và hãng sẽ luôn đóng vai trò trung tâm trong việc cung cấp nền tảng phần cứng cho cuộc đua AI về lâu dài.
+Hai bên dự kiến triển khai hệ thống Nvidia 10 gigawatt (GW) - đủ cung cấp điện cho hàng triệu ngôi nhà - để vận hành cơ sở hạ tầng AI thế hệ mới của OpenAI. Tuy nhiên, giới chuyên gia đánh giá năng lượng sẽ trở thành vấn đề lớn khi hệ thống hoạt động.
+"Việc tiếp cận nguồn điện là rào cản rất nghiêm trọng", Benjamin Hertz-Shargel, chuyên gia lưới điện của công ty tư vấn năng lượng Wood Mackenzie, nói với Business Insider. "Viễn cảnh trung tâm dữ liệu này đi vào vận hành còn rất xa vời".
+Thực tế, lưới điện của Mỹ hiện trong tình trạng quá tải do các trung tâm dữ liệu mọc lên ngày càng nhiều. Theo Rob Gramlich, cố vấn chính sách năng lượng và là nhà sáng lập Grid Strategies, các trung tâm dữ liệu tại Mỹ đang cần 60 GW điện mới, gần bằng công suất của 6 thành phố lớn cộng lại.
+Brad Gastwirth, Giám đốc nghiên cứu của Circular Technology, đánh giá việc hạn chế tiếp cận nguồn điện trong bối cảnh trung tâm dữ liệu phát triển tràn lan là "nút thắt cổ chai thầm lặng", làm chậm tốc độ tham vọng AI của không chỉ OpenAI hay Nvidia, mà ảnh hưởng đến toàn ngành.
+"Nhu cầu tăng thêm 10 gigawatt trong thỏa thuận giữa Nvidia và OpenAI càng gây áp lực cho một hệ thống vốn đã quá tải, và nó chỉ chiếm một phần nhỏ trong lượng điện mà OpenAI cần để cung cấp cho các kế hoạch AI của mình trong tương lai", Gastwirth nói.
+Theo Bloomberg, lưới điện hiện tại của Mỹ xây dựng từ những năm 1950-1960 và đã cũ theo thời gian. Đáng lẽ, chúng cần được nâng cấp trước khi làn sóng AI bùng nổ. Giữa năm nay, Bộ Năng lượng Mỹ cảnh báo số vụ mất điện trong nước có thể tăng thêm 100 vụ mỗi ngày trên toàn quốc nếu cơ sở hạ tầng điện mới không được xây dựng.
+Một số công ty cố gắng tự xây nhà máy điện để dùng hoặc hợp tác với công ty điện lực tư nhân. Amazon và Microsoft đã ký kết thỏa thuận mua điện từ các nhà máy điện hạt nhân công nghiệp lớn, OpenAI đầu tư vào công ty điện hạt nhân cỡ nhỏ Oklo, hay Elon Musk vận hành trung tâm dữ liệu xAI ở Memphis bằng máy phát điện khí đốt tự nhiên trong nhiều tháng. Dù vậy, người dân nơi đây đang liên tục phản đối vì nhà máy gây ô nhiễm không khí và tổn hại sức khỏe cộng đồng.
+"Ngành công nghệ sẽ phải sáng tạo để giải quyết vấn đề năng lượng", Gastwirth nói. "Vấn đề này sẽ ngày càng trở nên nghiêm trọng hơn qua từng năm".
+Nvidia sẽ đầu tư 100 tỷ USD vào OpenAI
+Phòng nghiên cứu 'đi trước thời đại' của Nvidia
+Nvidia đầu tư 5 tỷ USD vào Intel
+Nvidia tiếp tục gặp bất lợi tại Trung Quốc
