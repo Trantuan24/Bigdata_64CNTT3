@@ -5,18 +5,31 @@ sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 from utils import load_centroids, find_closest_centroid, parse_point
 
 def main():
-    # Load centroids
-    paths = ['current_centroids.txt', 'initial_centroids.txt', '../data/initial_centroids.txt', '../data/current_centroids.txt']
+    # Load centroids - check multiple possible paths
+    paths = [
+        'current_centroids.txt',           # Hadoop distributed cache
+        'initial_centroids.txt',           # Hadoop distributed cache
+        '../data/initial_centroids.txt',   # Relative from src/
+        '../data/current_centroids.txt',   # Relative from src/
+        'data/initial_centroids.txt',      # From project root
+        'data/current_centroids.txt',      # From project root
+        '/tmp/centroids.txt'               # Hadoop temp location
+    ]
+    
     centroids = None
     for path in paths:
         try:
             if os.path.exists(path):
                 centroids = load_centroids(path)
                 break
-        except:
+        except Exception as e:
             continue
     
     if not centroids:
+        # Debug: print available files
+        print(f"ERROR: No centroids found. Checked paths: {paths}", file=sys.stderr)
+        print(f"Current working directory: {os.getcwd()}", file=sys.stderr)
+        print(f"Files in current dir: {os.listdir('.')}", file=sys.stderr)
         sys.exit(1)
     
     # Process input

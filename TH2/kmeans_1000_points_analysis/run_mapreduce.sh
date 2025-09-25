@@ -90,7 +90,7 @@ if [ "$MODE" = "hadoop" ]; then
     
     # Run Hadoop job
     hadoop jar "$STREAMING_JAR" \
-        -files "$DATA_DIR/initial_centroids.txt" \
+        -files "$SRC_DIR/mapper.py,$SRC_DIR/reducer.py,$SRC_DIR/utils.py,$DATA_DIR/initial_centroids.txt" \
         -mapper "python3 mapper.py" \
         -reducer "python3 reducer.py" \
         -input "$HDFS_INPUT_DIR/data_points_1000.txt" \

@@ -36,7 +36,7 @@ Tìm những năm có giá trị năng lượng tiêu thụ trung bình (Average
 ```
 energy_consumption_analysis/
 ├── data/
-│   ├── energy_data.csv          # Dữ liệu chính từ hình ảnh (CSV format)
+│   ├── energy_data.csv          # Dữ liệu chính 
 │   └── energy_data_extended.csv # Dữ liệu mở rộng để test
 ├── src/
 │   ├── data_generator.py        # Tạo dữ liệu CSV từ hình ảnh
@@ -150,34 +150,3 @@ hdfs dfs -cat /user/ubuntu/energy_consumption/output/part-00000
 - Hadoop Streaming API để chạy Python scripts
 - Tự động upload input và download output
 - Error handling cho dữ liệu CSV không hợp lệ
-
-## 📊 Dữ liệu mẫu
-
-### Dữ liệu gốc từ hình ảnh:
-| Year | Jan | Feb | Mar | Apr | May | Jun | Jul | Aug | Sep | Oct | Nov | Dec | Avg |
-|------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 1979 | 23  | 23  | 2   | 43  | 24  | 25  | 26  | 26  | 26  | 26  | 25  | 26  | 25  |
-| 1980 | 26  | 27  | 28  | 28  | 28  | 30  | 31  | 31  | 31  | 30  | 30  | 30  | 29  |
-| 1981 | 31  | 32  | 32  | 32  | 33  | 34  | 35  | 36  | 36  | 34  | 34  | 34  | 34  |
-| 1984 | 39  | 38  | 39  | 39  | 39  | 41  | 42  | 43  | 40  | 39  | 38  | 38  | 40  |
-| 1985 | 38  | 39  | 39  | 39  | 39  | 41  | 41  | 41  | 0   | 40  | 39  | 39  | 45  |
-
-### Kết quả mong đợi:
-- **1981**: Average = 34 ✅ (> 30)
-- **1984**: Average = 40 ✅ (> 30)  
-- **1985**: Average = 45 ✅ (> 30)
-
-**Tổng cộng**: 3 năm thỏa mãn điều kiện Average > 30
-
-## 🎯 So sánh với Bài 1 (Customer Spending)
-
-| Aspect | Bài 1 (Customer Spending) | Bài 2 (Energy Consumption) |
-|--------|---------------------------|----------------------------|
-| **Input** | 2 files (JOIN required) | 1 file (Filter only) |
-| **Complexity** | High (JOIN + Aggregation) | Low (Simple filter) |
-| **Mapper Logic** | Emit CUST:/TRANS: prefix | Filter avg > 30 |
-| **Reducer Logic** | Calculate sum + count | Format output + stats |
-| **Data Processing** | Combine 2 datasets | Process single dataset |
-| **Output Format** | Customer spending summary | Filtered years list |
-
-Bài 2 đơn giản hơn nhiều so với bài 1 vì chỉ cần filter thay vì JOIN và aggregation phức tạp.

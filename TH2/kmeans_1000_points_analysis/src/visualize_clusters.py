@@ -123,8 +123,8 @@ def main():
                 plt.savefig(plot_file, dpi=300, bbox_inches='tight')
                 print(f"💾 Saved plot: {plot_file}")
                 
-                # Show plot
-                plt.show()
+                # Show plot (optional - comment out if running headless)
+                # plt.show()
                 
             except Exception as e:
                 print(f"❌ Error processing {mode} results: {e}")

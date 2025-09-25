@@ -5,8 +5,8 @@
 Thống kê tần suất xuất hiện của các từ trong bài báo tiếng Việt, sử dụng kỹ thuật MapReduce với data cleaning pipeline hoàn chỉnh.
 
 ### Input Data:
-- **raw_article.txt**: Bài báo gốc từ VnExpress (853 từ, 3,987 ký tự)
-- **cleaned_article.txt**: Text đã làm sạch (846 từ, 5,048 ký tự)
+- **raw_article.txt**: Bài báo gốc từ VnExpress 
+- **cleaned_article.txt**: Text đã làm sạch 
 - **Format**: Plain text tiếng Việt có dấu
 
 ### Output:
@@ -165,19 +165,5 @@ hdfs dfs -cat /user/ubuntu/wordcount/output/part-00000
 - Tự động upload input và download output
 - Error handling cho text không hợp lệ
 
-## 📊 Dữ liệu mẫu
-
-### Dữ liệu gốc:
-- **Bài báo**: "Tham vọng của Nvidia khi đổ trăm tỷ USD vào OpenAI"
-- **Nguồn**: VnExpress - Khoa học & Công nghệ
-- **URL**: https://vnexpress.net/tham-vong-cua-nvidia-khi-do-tram-ty-usd-vao-openai-4942934.html
-- **Thời gian crawl**: 2025-09-24
-
-### Kết quả mong đợi:
-- **nvidia**: 16 lần ✅ (tên công ty chính)
-- **điện**: 16 lần ✅ (năng lượng, điện toán)
-- **openai**: 13 lần ✅ (đối tác chính)
-
-**Tổng cộng**: 371 từ unique từ 846 từ tổng cộng
 
 

@@ -1,22 +1,36 @@
-Tham vọng của Nvidia khi đổ trăm tỷ USD vào OpenAI
+Tổng giám đốc WIPO: 'Việt Nam nên đầu tư hơn nữa cho R&D'
 
-Việc Nvidia đầu tư 100 tỷ USD để cung cấp hàng triệu chip cho OpenAI được đánh giá là chưa có tiền lệ trong ngành công nghệ.
+Ông Daren Tang, Tổng giám đốc Tổ chức Sở hữu trí tuệ thế giới (WIPO) khuyến nghị Việt Nam ba việc cần làm, trong đó có đầu tư cho nghiên cứu và phát triển (R&D).
 
-Theo công bố ngày 22/9, Nvidia sẽ đầu tư khoản tiền ban đầu 10 tỷ USD để tăng công suất xử lý các hệ thống của OpenAI. Phần còn lại sẽ triển khai dần khi xây dựng cơ sở hạ tầng, dự kiến vào nửa cuối 2026.
-Một số nguồn tin nói Nvidia sẽ đầu tư vào OpenAI thông qua cổ phần không có quyền biểu quyết, trong khi đó nhà phát triển ChatGPT sẽ dùng nguồn vốn này để mua chip Nvidia, từ đó tăng cường sức mạnh so với các đối thủ.
-Reuters đánh giá thỏa thuận là "điều chưa từng có tiền lệ trong ngành công nghệ", nhưng cũng đặt ra nhiều dấu hỏi về lợi ích và rủi ro cho đôi bên.
-Logo Nvidia và OpenAI trên màn hình máy tính. Ảnh: Reuters
-Theo WSJ, Nvidia đang có vị thế hàng đầu về phần cứng AI, do đó việc đầu tư có thể giúp OpenAI tăng thêm phần tín nhiệm, khẳng định vị thế thống trị trong cuộc đua ngày càng khốc liệt. ChatGPT hiện có hơn 700 triệu người dùng hàng tháng, nhưng vẫn chịu lỗ. Hồi tháng 6, công ty cho biết đạt doanh thu định kỳ hàng năm 10 tỷ USD nhưng phải sau năm 2029 mới có lợi nhuận.
-Khoản tiền 100 tỷ USD cũng giúp OpenAI "thiết lập lại kỳ vọng thị trường". Có nghĩa, Nvidia sẽ luôn duy trì được sự bùng nổ trong lĩnh vực trí tuệ nhân tạo, từ đó thúc đẩy và củng cố nhu cầu mua sắm đối với chip AI. Nvidia sẽ tạo ra "tính tuần hoàn", giúp mọi thứ phát triển xoay vòng và hãng sẽ luôn đóng vai trò trung tâm trong việc cung cấp nền tảng phần cứng cho cuộc đua AI về lâu dài.
-Hai bên dự kiến triển khai hệ thống Nvidia 10 gigawatt (GW) - đủ cung cấp điện cho hàng triệu ngôi nhà - để vận hành cơ sở hạ tầng AI thế hệ mới của OpenAI. Tuy nhiên, giới chuyên gia đánh giá năng lượng sẽ trở thành vấn đề lớn khi hệ thống hoạt động.
-"Việc tiếp cận nguồn điện là rào cản rất nghiêm trọng", Benjamin Hertz-Shargel, chuyên gia lưới điện của công ty tư vấn năng lượng Wood Mackenzie, nói với Business Insider. "Viễn cảnh trung tâm dữ liệu này đi vào vận hành còn rất xa vời".
-Thực tế, lưới điện của Mỹ hiện trong tình trạng quá tải do các trung tâm dữ liệu mọc lên ngày càng nhiều. Theo Rob Gramlich, cố vấn chính sách năng lượng và là nhà sáng lập Grid Strategies, các trung tâm dữ liệu tại Mỹ đang cần 60 GW điện mới, gần bằng công suất của 6 thành phố lớn cộng lại.
-Brad Gastwirth, Giám đốc nghiên cứu của Circular Technology, đánh giá việc hạn chế tiếp cận nguồn điện trong bối cảnh trung tâm dữ liệu phát triển tràn lan là "nút thắt cổ chai thầm lặng", làm chậm tốc độ tham vọng AI của không chỉ OpenAI hay Nvidia, mà ảnh hưởng đến toàn ngành.
-"Nhu cầu tăng thêm 10 gigawatt trong thỏa thuận giữa Nvidia và OpenAI càng gây áp lực cho một hệ thống vốn đã quá tải, và nó chỉ chiếm một phần nhỏ trong lượng điện mà OpenAI cần để cung cấp cho các kế hoạch AI của mình trong tương lai", Gastwirth nói.
-Theo Bloomberg, lưới điện hiện tại của Mỹ xây dựng từ những năm 1950-1960 và đã cũ theo thời gian. Đáng lẽ, chúng cần được nâng cấp trước khi làn sóng AI bùng nổ. Giữa năm nay, Bộ Năng lượng Mỹ cảnh báo số vụ mất điện trong nước có thể tăng thêm 100 vụ mỗi ngày trên toàn quốc nếu cơ sở hạ tầng điện mới không được xây dựng.
-Một số công ty cố gắng tự xây nhà máy điện để dùng hoặc hợp tác với công ty điện lực tư nhân. Amazon và Microsoft đã ký kết thỏa thuận mua điện từ các nhà máy điện hạt nhân công nghiệp lớn, OpenAI đầu tư vào công ty điện hạt nhân cỡ nhỏ Oklo, hay Elon Musk vận hành trung tâm dữ liệu xAI ở Memphis bằng máy phát điện khí đốt tự nhiên trong nhiều tháng. Dù vậy, người dân nơi đây đang liên tục phản đối vì nhà máy gây ô nhiễm không khí và tổn hại sức khỏe cộng đồng.
-"Ngành công nghệ sẽ phải sáng tạo để giải quyết vấn đề năng lượng", Gastwirth nói. "Vấn đề này sẽ ngày càng trở nên nghiêm trọng hơn qua từng năm".
-Nvidia sẽ đầu tư 100 tỷ USD vào OpenAI
-Phòng nghiên cứu 'đi trước thời đại' của Nvidia
-Nvidia đầu tư 5 tỷ USD vào Intel
-Nvidia tiếp tục gặp bất lợi tại Trung Quốc
+Nhận lời mời của Bộ Khoa học và Công nghệ, ông Daren Tang đã đến thăm và làm việc tại Việt Nam ngày 25/9. Ông chia sẻ một vài nhận định, đồng thời đưa ra khuyến nghị để giúp Việt Nam xây dựng nền kinh tế tri thức.
+Bộ trưởng Nguyễn Mạnh Hùng (phải) tiếp Tổng giám đốc WIPO, sáng 25/9. Ảnh: Giang Huy
+- Ông đánh giá thế nào khi Việt Nam được ghi nhận là quốc gia "đổi mới vượt kỳ vọng" trong Chỉ số đổi mới sáng tạo toàn cầu GII 2025?
+- Trong 10-15 năm qua, Việt Nam đã chứng minh được những nỗ lực bền bỉ của mình. Từ vị trí 76 trên bảng xếp hạng năm 2013 đã vươn lên thứ 44 năm 2024 - một thành tích hiếm thấy trong lịch sử. Đây là nền tảng vững chắc cho giai đoạn phát triển tiếp theo.
+Trong suốt chặng đường 80 năm qua, Việt Nam có những thay đổi to lớn về kinh tế, xã hội, văn hóa và đang bước vào một chương phát triển mới. Tôi tin rằng khoa học công nghệ cũng như đổi mới sáng tạo sẽ là động lực thúc đẩy, cùng với quyết tâm chính trị, Việt Nam sẽ thành công.
+- Theo ông, làm thế nào để nâng cao chất lượng đổi mới sáng tạo?
+- Trong chương tiếp theo, Việt Nam có ba việc cần làm. Thứ nhất là củng cố đầu tư cho nghiên cứu và phát triển. Cùng với đó là nâng cao, xây dựng năng lực của con người để cụ thể hóa những ý tưởng sáng tạo trở thành kết quả hữu hình, như tạo ra việc làm, sản xuất, dịch vụ. Điểm thứ ba là chuyển dịch sang nền kinh tế trí tuệ, giảm dần phụ thuộc vào sản xuất, lắp ráp hay nông nghiệp như trước.
+Tổng giám đốc Tổ chức Sở hữu trí tuệ thế giới Daren Tang. Ảnh: Minh Sơn
+- Việt Nam cần lưu ý gì khi sửa đổi, hoàn thiện Luật Sở hữu trí tuệ?
+- Trước đây, bảo hộ sở hữu trí tuệ chủ yếu dừng ở việc đăng ký và bảo vệ quyền. Như vậy chưa đủ. Điều quan trọng là phải thương mại hóa quyền sở hữu trí tuệ, biến sáng chế, ý tưởng thành sản phẩm, dịch vụ và giá trị kinh tế cụ thể. Đây cũng chính là hướng tiếp cận mà WIPO đang hợp tác cùng Việt Nam. Chúng tôi muốn tạo ra lộ trình để ý tưởng thực sự đi ra thị trường, góp phần thúc đẩy tăng trưởng.
+Trong cách tiếp cận mới này, quyền sở hữu trí tuệ không còn là câu chuyện liên quan đến quy định, mà trở thành hệ sinh thái, gắn kết các trường đại học, viện nghiên cứu với doanh nghiệp, từ startup đến tập đoàn lớn.
+Bên cạnh đó, việc nâng cao nhận thức và kỹ năng cho toàn xã hội về sở hữu trí tuệ là yếu tố rất quan trọng. Biên bản ghi nhớ vừa được WIPO ký với Bộ Khoa học và Công nghệ sẽ trở thành chất xúc tác, giúp Việt Nam thúc đẩy quá trình này mạnh mẽ hơn.
+- Chính phủ Việt Nam đặt mục tiêu tăng trưởng GDP hai con số. Theo ông, đổi mới sáng tạo và sở hữu trí tuệ sẽ đóng góp vai trò gì vào mục tiêu này?
+- Tôi thường hình dung đổi mới sáng tạo như một con sông chảy từ núi ra biển. Đầu nguồn chính là các hoạt động R&D mà Việt Nam đang đầu tư. Đầu tư càng nhiều, dòng chảy càng mạnh.
+Tuy nhiên, để con sông này chảy suôn sẻ và hài hòa, cần có hệ thống hỗ trợ, giúp những ý tưởng của người Việt đi đúng hướng, trở thành điển hình không chỉ trong khu vực mà còn trên thế giới.
+Ngay tại đây, chúng tôi có sáng kiến "Lab to market" (từ phòng thí nghiệm ra thị trường), giúp sinh viên công nghệ đưa sản phẩm nghiên cứu ra đời sống, hình thành các mô hình doanh nghiệp khởi nguồn (spin-off) từ trường đại học, viện nghiên cứu và kết nối trực tiếp với doanh nghiệp.
+Như vậy, quyền sở hữu trí tuệ không chỉ là vấn đề pháp lý mà sẽ trở thành cầu nối, một phần của hệ sinh thái phát triển. WIPO sẽ đồng hành cùng Việt Nam để hiện thực hóa các mục tiêu trong Nghị quyết 57 của Bộ Chính trị về đột phá khoa học công nghệ, đổi mới sáng tạo và chuyển đổi số, hướng tới xây dựng nền kinh tế tri thức trong tương lai.
+Việt Nam muốn lập bản đồ sáng chế cho 11 nhóm công nghệ chiến lược
+Tổng giám đốc Tổ chức Sở hữu trí tuệ thế giới sắp đến Việt Nam
+Việt Nam đứng đầu thế giới về xuất khẩu hàng hóa sáng tạo
+Những quyết sách giúp thay đổi diện mạo khoa học công nghệ Việt Nam
+Góp ý kiến tạo
+Bạn có thể đặt mọi câu hỏi, vấn đề về Khoa học công nghệ, Đổi mới sáng tạo, Chuyển đổi số trực tiếp cho Bộ Khoa học và Công nghệ
+
+Gửi góp ý
+Góp ý kiến tạo
+Bạn có thể đặt mọi câu hỏi, vấn đề về Khoa học công nghệ, Đổi mới sáng tạo, Chuyển đổi số trực tiếp cho Bộ Khoa học và Công nghệ
+
+Gửi góp ý
+Góp ý kiến tạo
+Bạn có thể đặt mọi câu hỏi, vấn đề về Khoa học công nghệ, Đổi mới sáng tạo, Chuyển đổi số trực tiếp cho Bộ Khoa học và Công nghệ
+Bạn có thể đặt mọi câu hỏi, vấn đề về Khoa học công nghệ, Đổi mới sáng tạo, Chuyển đổi số trực tiếp cho Bộ Khoa học và Công nghệ
